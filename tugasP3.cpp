@@ -5,7 +5,7 @@ int main() {
   cout << "Program penjumlahan dua matriks\n";
   int baris;
   int kolom;
-  // bool simetri = true;
+  // bool simetri = true
 
   cout << "Masukkan jumlah baris matriks : ";
   cin >> baris;
